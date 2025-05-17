@@ -30,3 +30,4 @@ replay_pid*
 */build.gradle.kts
 */.gradle/
 */local.properties
+*/build/*
