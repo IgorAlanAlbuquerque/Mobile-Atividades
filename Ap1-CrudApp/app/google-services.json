@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607212498839",
+    "project_id": "crud-item-app-igor",
+    "storage_bucket": "crud-item-app-igor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607212498839:android:7e70d9945657f705b39ed2",
+        "android_client_info": {
+          "package_name": "com.igor.cruditemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoRYHQk9fYboyZDFSG3G5dR9NJ3p8-UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
